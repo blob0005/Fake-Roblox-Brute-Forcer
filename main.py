@@ -41,7 +41,7 @@ def stealer():
  ___/ / /_/  __/ /_/ / /  __/ /          
 /____/\__/\___/\__,_/_/\___/_/           
                                          """)
-    input("Target: ")
+    input("Target ID: ")
     print0040("Connecting To Password Database")
     r1 = random.randint(5, 43)
     print0040("Connecting To " + str(r1) + " Vps")
