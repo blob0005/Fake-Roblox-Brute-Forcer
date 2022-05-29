@@ -1,5 +1,11 @@
 import os
 try:
+    import os
+    from os import system
+    system("title " + "Roblox Brute Forcer")
+except:
+    pass
+try:
     import colorama
 except Exception:
     while True:
