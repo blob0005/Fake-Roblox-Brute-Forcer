@@ -2,7 +2,7 @@ import os
 try:
     import os
     from os import system
-    system("title " + "Roblox Brute Forcer")
+    system("title " + "Roblox Brute Forcer,   Made By blob#0005,   Github: github.com/blob0005")
 except:
     pass
 try:
